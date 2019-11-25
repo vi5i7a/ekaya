@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "992381213519",
+    "firebase_url": "https://ekaya-720ea.firebaseio.com",
+    "project_id": "ekaya-720ea",
+    "storage_bucket": "ekaya-720ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992381213519:android:cc7766c024a489e025433a",
+        "android_client_info": {
+          "package_name": "mz.co.abslda.ekaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992381213519-3nsi3b6gj4js8905c122ucic00c8aaer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiXCLmxhCWG_BIbiwoHhMFU_dnYrPTZ1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992381213519-3nsi3b6gj4js8905c122ucic00c8aaer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
