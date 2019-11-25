@@ -21,6 +21,5 @@ public interface ICreatableJpaRepository<T extends CreatableEntity, ID extends S
 
 	default T findByPrimaryKey(ID id) {
 		return null;
-		//return findOne(id);
 	}
 }
