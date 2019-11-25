@@ -5,6 +5,9 @@ import java.util.Optional;
 
 import mz.co.abslda.ekayaapi.core.citizen.entity.CitizenEntity;
 
+/**
+ * @author Ivo Abdul
+ */
 public interface ICitizenService {
 	
 	public void create(CitizenEntity person);

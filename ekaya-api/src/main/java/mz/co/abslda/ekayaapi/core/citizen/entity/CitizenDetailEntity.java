@@ -9,6 +9,9 @@ import javax.persistence.Enumerated;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
+/**
+ * @author Ivo Abdul
+ */
 @Embeddable
 public class CitizenDetailEntity {
 	

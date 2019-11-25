@@ -7,7 +7,9 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 import mz.co.abslda.ekayaapi.fwk.jpa.entity.CreatableEntity;
 
-
+/**
+ * @author Ivo Abdul
+ */
 public interface ICreatableJpaRepository<T extends CreatableEntity, ID extends Serializable> extends JpaRepository<T, ID> {
 
 	default <S extends T> S create(S entity) {

@@ -10,6 +10,9 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import mz.co.abslda.ekayaapi.fwk.event.ResourceCreatedEvent;
 
+/**
+ * @author Ivo Abdul
+ */
 @Component
 public class ResourceCreatedListener implements ApplicationListener<ResourceCreatedEvent> {
 

@@ -19,6 +19,9 @@ import mz.co.abslda.ekayaapi.core.residence.entity.ResidenceEntity;
 import mz.co.abslda.ekayaapi.core.residence.service.IResidenceService;
 import mz.co.abslda.ekayaapi.fwk.event.ResourceCreatedEvent;
 
+/**
+ * @author Ivo Abdul
+ */
 @RestController
 @RequestMapping("residencias")
 public class ResidenceResource {

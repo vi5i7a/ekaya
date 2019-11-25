@@ -2,6 +2,9 @@ package mz.co.abslda.ekayaapi.fwk.jpa.util;
 
 import mz.co.abslda.ekayaapi.fwk.jpa.entity.LifeCycleEntity;
 
+/**
+ * @author Ivo Abdul
+ */
 public enum LifeCycleState
 {
 	ACTIVE(true, 0), INACTIVE(false, 1), DELETED(false, 2), BLOCKED(false, 3), BANNED(false, 4);

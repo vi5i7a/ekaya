@@ -5,6 +5,9 @@ import java.util.Optional;
 
 import mz.co.abslda.ekayaapi.core.residence.entity.ResidenceEntity;
 
+/**
+ * @author Ivo Abdul
+ */
 public interface IResidenceService {
 	
 	public void create(ResidenceEntity residence);

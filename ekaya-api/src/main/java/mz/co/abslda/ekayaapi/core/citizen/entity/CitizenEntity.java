@@ -9,6 +9,9 @@ import javax.validation.constraints.Size;
 
 import mz.co.abslda.ekayaapi.fwk.jpa.entity.LifeCycleEntity;
 
+/**
+ * @author Ivo Abdul
+ */
 @Entity
 @Table(name = "citizen")
 public class CitizenEntity  extends LifeCycleEntity {

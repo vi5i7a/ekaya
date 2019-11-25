@@ -6,7 +6,9 @@ import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
 import mz.co.abslda.ekayaapi.fwk.jpa.entity.CreatableEntity;
-
+/**
+ * @author Ivo Abdul
+ */
 @Entity
 @Table(name = "document_type")
 public class DocumentTypeEntity extends CreatableEntity {

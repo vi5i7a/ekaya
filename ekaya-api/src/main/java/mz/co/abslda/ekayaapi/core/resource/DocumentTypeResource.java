@@ -21,6 +21,9 @@ import mz.co.abslda.ekayaapi.core.document.entity.DocumentTypeEntity;
 import mz.co.abslda.ekayaapi.core.document.repository.DocumentTypeRepository;
 import mz.co.abslda.ekayaapi.fwk.event.ResourceCreatedEvent;
 
+/**
+ * @author Ivo Abdul
+ */
 @RestController
 @RequestMapping("tiposDeDocumentos")
 public class DocumentTypeResource {

@@ -7,6 +7,9 @@ import javax.validation.constraints.NotNull;
 
 import mz.co.abslda.ekayaapi.fwk.jpa.entity.LifeCycleEntity;
 
+/**
+ * @author Ivo Abdul
+ */
 @Entity
 @Table(name = "residence")
 public class ResidenceEntity  extends LifeCycleEntity  {

@@ -21,6 +21,9 @@ import mz.co.abslda.ekayaapi.core.citizen.entity.CitizenEntity;
 import mz.co.abslda.ekayaapi.core.citizen.service.ICitizenService;
 import mz.co.abslda.ekayaapi.fwk.event.ResourceCreatedEvent;
 
+/**
+ * @author Ivo Abdul
+ */
 @RestController
 @RequestMapping("cidadaos")
 public class CitizenResource {

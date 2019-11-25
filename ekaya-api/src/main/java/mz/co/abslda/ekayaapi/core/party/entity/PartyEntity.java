@@ -13,6 +13,9 @@ import javax.validation.constraints.Size;
 
 import mz.co.abslda.ekayaapi.fwk.jpa.entity.LifeCycleEntity;
 
+/**
+ * @author Ivo Abdul
+ */
 @Entity
 @Table(name = "party")
 public class PartyEntity extends LifeCycleEntity  {

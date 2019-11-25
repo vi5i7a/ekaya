@@ -4,6 +4,9 @@ import javax.servlet.http.HttpServletResponse;
 
 import org.springframework.context.ApplicationEvent;
 
+/**
+ * @author Ivo Abdul
+ */
 public class ResourceCreatedEvent extends ApplicationEvent {
 	/**
 	 * 

@@ -1,5 +1,8 @@
 package mz.co.abslda.ekayaapi.core.party.entity;
 
+/**
+ * @author Ivo Abdul
+ */
 public enum PartyType {
 
 	AUTOMATED_AGENT("Automated Agent"), FAMILY("Family"), GOVERNMENT_AGENCY("Government Agency"),
